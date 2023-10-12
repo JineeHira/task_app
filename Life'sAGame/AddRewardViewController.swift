@@ -2,7 +2,6 @@
 //  AddRewardViewController.swift
 //  Life'sAGame
 //
-//  Created by Jinee Hira on 11/2/22.
 //
 
 import UIKit
