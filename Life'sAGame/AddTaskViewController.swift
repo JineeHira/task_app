@@ -2,7 +2,6 @@
 //  AddTaskViewController.swift
 //  Life'sAGame
 //
-//  Created by Maggie Kleman on 10/23/22.
 //
 
 import UIKit
