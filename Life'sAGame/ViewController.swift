@@ -1,7 +1,6 @@
 //  ViewController.swift
 //  Life'sAGame
 //
-//  Created by Maggie Kleman on 10/5/22.
 //
 
 import UIKit
