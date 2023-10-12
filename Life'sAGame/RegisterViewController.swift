@@ -2,7 +2,6 @@
 //  RegisterViewController.swift
 //  Life'sAGame
 //
-//  Created by Shaheer Siddiqui on 10/15/22.
 //
 
 import UIKit
