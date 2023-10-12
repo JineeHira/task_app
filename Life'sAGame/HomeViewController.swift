@@ -2,7 +2,6 @@
 //  HomeViewController.swift
 //  Life'sAGame
 //
-//  Created by ZHANG, Yuning on 10/28/22.
 //
 //
 
