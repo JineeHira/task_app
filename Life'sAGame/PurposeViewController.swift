@@ -2,7 +2,6 @@
 //  PurposeViewController.swift
 //  Life'sAGame
 //
-//  Created by Maggie Kleman on 12/5/22.
 //
 
 import UIKit
