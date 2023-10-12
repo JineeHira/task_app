@@ -2,7 +2,6 @@
 //  GlobalFunctions.swift
 //  Life'sAGame
 //
-//  Created by Shaheer Siddiqui on 11/19/22.
 //
 
 import UIKit
